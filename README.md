@@ -10,7 +10,7 @@
 
 
    
-# 💫 About Me:
+
 👋 Hi, I'm Ajith!<br>💻 Computer Science Engineering student & developer.<br>🌱 Currently learning: AI/ML, Python, Full-Stack Development, and Web Development.<br>🚀 Building projects in Machine Learning, OpenCV, AI automation, and full-stack applications.<br>📚 Passionate about problem-solving, clean code, scalable systems, and exploring new technologies.<br>
 
 
