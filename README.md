@@ -48,9 +48,16 @@
 ---
 
 ## 👨‍💻 About Me
+<!-- Banner Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,24,30&height=300&section=header&text=Ajith%20V&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Enthusiast%20|%20Python%20Engineer&descSize=30&descAlignY=55" />
+</div>
+
+...
+
 ```js
 const ajith = {
-  name: "Ajith v",
+  name: "Ajith V",
   roles: ["Full-Stack Developer", "AI/ML Enthusiast", "Python Developer", "OpenCV Learner"],
   education: "B.E. in Computer Science Engineering",
   currentlyLearning: ["AI/ML", "Python", "Full-Stack Development", "OpenCV"],
@@ -68,3 +75,4 @@ const ajith = {
   ],
   sayHi: () => "Always learning, always building. Let's connect! 🚀"
 }
+
