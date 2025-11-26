@@ -8,27 +8,9 @@
 
 ...
 
-## 👨‍💻 About Me
-```js
-const ajith = {
-  name: "Ajith V",
-  roles: ["Full-Stack Developer", "AI/ML Enthusiast", "Python Developer", "OpenCV Learner"],
-  education: "B.E. in Computer Science Engineering",
-  currentlyLearning: ["AI/ML", "Python", "Full-Stack Development", "OpenCV"],
-  passionateAbout: ["Problem-Solving", "Clean Code", "Scalable Systems", "AI Automation"],
-  skills: {
-    languages: ["Python", "Java", "JavaScript", "HTML", "CSS"],
-    frontend: ["React", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js"],
-    ai_ml: ["Machine Learning", "OpenCV", "Data Preprocessing"],
-    tools: ["Git", "VS Code", "Postman"]
-  },
-  projects: [
-    "Fake News Detection using Machine Learning",
-    "Smart AI Car using Python + OpenCV + Sensors"
-  ],
-  sayHi: () => "Always learning, always building. Let's connect! 🚀"
-}
+
+   
+# 💫 About Me:
 👋 Hi, I'm Ajith!<br>💻 Computer Science Engineering student & developer.<br>🌱 Currently learning: AI/ML, Python, Full-Stack Development, and Web Development.<br>🚀 Building projects in Machine Learning, OpenCV, AI automation, and full-stack applications.<br>📚 Passionate about problem-solving, clean code, scalable systems, and exploring new technologies.<br>
 
 
